@@ -1,4 +1,4 @@
-# Aplicações Informáticas na Biomedicina Implementação de Sistema de Business Intelligence para o suporte à decisão clínica
+# AIB: Implementação de Sistema de Business Intelligence para o suporte à decisão clínica
 University Project for Computer Applications in Biomedicine - course of Computer Engineering at University of Minho.
 
 ## So, what is this?
